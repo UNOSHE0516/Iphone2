@@ -1,5 +1,3 @@
 
-public class SmartPhone2 {
-	public class SmartPhone extends Phone implements Mp3Player, NewFunction{
-	 }
+public class SmartPhone2 extends Phone implements Mp3Player, NewFunction{
 }

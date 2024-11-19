@@ -1,5 +1,6 @@
 
 public interface NewFunction {
+	
 	public abstract void call();
 	
 	public abstract void mail();
